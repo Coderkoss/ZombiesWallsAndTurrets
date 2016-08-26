@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\BasicSSZombie.png</Source>
+      <Name>Textures\BasicSSZombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\BasicSSZombie.xnb</Output>
+      <Time>2015-01-15T17:49:51.692014-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Pixel.png</Source>
+      <Name>Textures\Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\Pixel.xnb</Output>
+      <Time>2015-01-15T17:50:01.9565903-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ZombieSpriteSheet.png</Source>
+      <Name>Textures\ZombieSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\ZombieSpriteSheet.xnb</Output>
+      <Time>2015-01-23T02:13:32.943362-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\turretSpriteSheet.png</Source>
+      <Name>Textures\turretSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\turretSpriteSheet.xnb</Output>
+      <Time>2015-01-24T01:37:25.738826-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bulletSpriteSheet.png</Source>
+      <Name>Textures\bulletSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\bulletSpriteSheet.xnb</Output>
+      <Time>2015-01-28T15:50:47.0780638-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\grassBackgroundTopdown1.png</Source>
+      <Name>Textures\grassBackgroundTopdown1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\grassBackgroundTopdown1.xnb</Output>
+      <Time>2015-02-04T14:08:02.1690106-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WallsSpritesheet.png</Source>
+      <Name>Textures\WallsSpritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\WallsSpritesheet.xnb</Output>
+      <Time>2015-04-16T13:51:48.9515783-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ZombieWalls&amp;TurretsBackground.png</Source>
+      <Name>Textures\ZombieWalls&amp;TurretsBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\ZombieWalls&amp;TurretsBackground.xnb</Output>
+      <Time>2015-04-23T18:12:58.3039396-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ButtonTexture.png</Source>
+      <Name>Textures\ButtonTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\ButtonTexture.xnb</Output>
+      <Time>2015-05-02T14:07:51.6738102-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Aierl.spritefont</Source>
+      <Name>Aierl</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Aierl.xnb</Output>
+      <Time>2015-03-02T15:49:26.0033021-05:00</Time>
+    </Item>
+    <Item>
+      <Source>buttonFont.spritefont</Source>
+      <Name>buttonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\buttonFont.xnb</Output>
+      <Time>2015-05-02T03:08:25.2762842-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\zmb-pain5.wav</Source>
+      <Name>Fx\zmb-pain5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\zmb-pain5.xnb</Output>
+      <Time>2015-04-16T16:27:28.3698025-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\growl2.wav</Source>
+      <Name>Fx\growl2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\growl2.xnb</Output>
+      <Time>2015-04-16T16:27:28.373803-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\zombie-22.wav</Source>
+      <Name>Fx\zombie-22</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\zombie-22.xnb</Output>
+      <Time>2015-04-16T16:27:28.3908044-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\zombie-21.wav</Source>
+      <Name>Fx\zombie-21</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\zombie-21.xnb</Output>
+      <Time>2015-04-16T16:27:28.3938045-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\monster-zombie-scream.wav</Source>
+      <Name>Fx\monster-zombie-scream</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\monster-zombie-scream.xnb</Output>
+      <Time>2015-04-16T16:27:28.3978054-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\zombie-grinning.wav</Source>
+      <Name>Fx\zombie-grinning</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\zombie-grinning.xnb</Output>
+      <Time>2015-04-16T16:27:28.4208058-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\zombie02.wav</Source>
+      <Name>Fx\zombie02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\zombie02.xnb</Output>
+      <Time>2015-04-16T16:27:28.4468067-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\zombie1-.wav</Source>
+      <Name>Fx\zombie1-</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\zombie1-.xnb</Output>
+      <Time>2015-04-16T16:27:28.5558133-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\zombie.wav</Source>
+      <Name>Fx\zombie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\zombie.xnb</Output>
+      <Time>2015-04-16T16:27:28.5228125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\zombie-growls6.wav</Source>
+      <Name>Fx\zombie-growls6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\zombie-growls6.xnb</Output>
+      <Time>2015-04-16T16:27:29.7958836-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\zombie-attack6.wav</Source>
+      <Name>Fx\zombie-attack6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\zombie-attack6.xnb</Output>
+      <Time>2015-04-16T16:27:30.023897-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\reverse-piano-45extended.wav</Source>
+      <Name>Music\reverse-piano-45extended</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Music\reverse-piano-45extended.xnb</Output>
+      <Time>2015-04-17T18:28:30.191435-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\GunShotSnd.wav</Source>
+      <Name>Fx\GunShotSnd</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\GunShotSnd.xnb</Output>
+      <Time>2015-04-18T11:56:57.9934189-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\BulletSplash.wav</Source>
+      <Name>Fx\BulletSplash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\BulletSplash.xnb</Output>
+      <Time>2015-04-18T12:21:08.6354657-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\WallPlaceSnd.wav</Source>
+      <Name>Fx\WallPlaceSnd</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\WallPlaceSnd.xnb</Output>
+      <Time>2015-04-21T14:54:52.6400258-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\SplashScreen.wav</Source>
+      <Name>Music\SplashScreen</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Music\SplashScreen.xnb</Output>
+      <Time>2015-04-27T13:28:19.8243968-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fx\menuSelection.wav</Source>
+      <Name>Fx\menuSelection</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Fx\menuSelection.xnb</Output>
+      <Time>2015-05-06T12:52:58.6189682-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ZWTMenuSelectionBackground.png</Source>
+      <Name>Textures\ZWTMenuSelectionBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\ZWTMenuSelectionBackground.xnb</Output>
+      <Time>2015-05-06T13:05:51.6963939-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\healthBar.png</Source>
+      <Name>Textures\healthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\Textures\healthBar.xnb</Output>
+      <Time>2015-05-07T11:38:20.9535078-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-05-11T14:05:23.6321717-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurretsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurretsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\kevin\Documents\Visual Studio 2010\Projects\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\ZombiesWallsAndTurrets\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-18T11:16:05.8898669-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
